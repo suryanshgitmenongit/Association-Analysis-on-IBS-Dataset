@@ -1,4 +1,4 @@
-# Association-Analysis-on-IBS-Dataset
+# Machine Discovery: Association-Analysis-on-IBS-Dataset
 
 This document presents the results of the association analysis performed on the IBS dataset. Below is a detailed explanation of the key steps and the resulting metrics.
 
